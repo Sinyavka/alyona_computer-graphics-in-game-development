@@ -1,5 +1,0 @@
-/Users/alenasinagina/computer-graphics-in-game-development/build/CMakeFiles/Rasterization.dir
-/Users/alenasinagina/computer-graphics-in-game-development/build/CMakeFiles/Raytracing.dir
-/Users/alenasinagina/computer-graphics-in-game-development/build/CMakeFiles/DirectX12.dir
-/Users/alenasinagina/computer-graphics-in-game-development/build/CMakeFiles/edit_cache.dir
-/Users/alenasinagina/computer-graphics-in-game-development/build/CMakeFiles/rebuild_cache.dir
